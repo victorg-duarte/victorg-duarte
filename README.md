@@ -1,5 +1,5 @@
 # :man_office_worker: About Me:
-🤙 Hi!! I’m Victor,<br>🔭 I’m currently working as Systems Analyst on Cracto Technologies<br>🌱 I’m currently learning ReactJS
+🤙 Hello!! I’m Victor,<br>🔭 I’m currently working as Systems Analyst on Cracto Technologies<br>🌱 I’m currently learning ReactJS
 
 
 ## 🌐 Socials:
